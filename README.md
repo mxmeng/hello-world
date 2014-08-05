@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+I once was shot in the shoulder by a bow and arrow.
